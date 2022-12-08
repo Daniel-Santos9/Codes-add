@@ -1,0 +1,1 @@
+demo.py --testDir=..\dataset-completo\benign\ --ckpt=C:\Users\'Daniel Santos'\Mestrado\Codigos\Zero-DCE-master\train-jobs\ckpt\8LE-color-loss2_best_model.pth --outDir=..\demo-output\benign\
